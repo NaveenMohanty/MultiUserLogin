@@ -45,7 +45,7 @@ The extension uses an icon sourced from a free online resource. All rights remai
 
 ## Support
 
-For questions, feedback, or bug reports, please open an issue on the [GitHub repository](https://github.com/your-username/multi-user-login).
+For questions, feedback, or bug reports, please open an issue on the [GitHub repository](https://github.com/NaveenMohanty/MultiUserLogin).
 
 ## License
 
