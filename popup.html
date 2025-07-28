@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Multi User Login</title>
+  <style>
+    body {
+      width: 200px;
+      padding: 10px;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      border-radius: 10px;
+    }
+
+    .header {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .btn {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <h3>Multi User Login </h3> <img width="20px" src="/icon16.png" />
+  </div>
+  <button class="btn" id="openFreshTab" title="Opens a new tab with cleared cookies for a fresh login session.">Open New
+    Tab</button>
+  <script src="popup.js"></script>
+</body>
+
+</html>
